@@ -1,0 +1,89 @@
+Schedule Name: Data concentrator 5
+Schedule Start Time: 2024-01-13 06:00:00 (Local) - 2024-01-13 12:00:00 (UTC)
+Schedule Stop Time: 2024-01-13 06:20:11 (Local) - 2024-01-13 12:20:11 (UTC)
+Schedule Description:
+
+
+
+
+Ensamble_L3
+Operation:	Backup and Compare
+Status:		Compare - No Differences Found - Completed at 2024-01-13 06:08:42 (Local) - 2024-01-13 12:08:42 (UTC)
+Start:		2024-01-13 06:03:44 (Local) - 2024-01-13 12:03:44 (UTC)
+Finish:		2024-01-13 06:08:43 (Local) - 2024-01-13 12:08:43 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/Ensamble_L3
+
+
+PLC_Drives_Ensamble_L3
+Operation:	Backup and Compare
+Status:		Device not found
+Start:		2024-01-13 06:15:26 (Local) - 2024-01-13 12:15:26 (UTC)
+Finish:		2024-01-13 06:15:35 (Local) - 2024-01-13 12:15:35 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/PLC_Drives_Ensamble_L3
+
+
+PLC_mesas_Ensamble_L3
+Operation:	Backup and Compare
+Status:		Device not found
+Start:		2024-01-13 06:16:05 (Local) - 2024-01-13 12:16:05 (UTC)
+Finish:		2024-01-13 06:16:15 (Local) - 2024-01-13 12:16:15 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/PLC_mesas_Ensamble_L3
+
+
+PLC_Bahia_R600_Ensamble_L3
+Operation:	Backup and Compare
+Status:		Device not found
+Start:		2024-01-13 06:15:45 (Local) - 2024-01-13 12:15:45 (UTC)
+Finish:		2024-01-13 06:15:54 (Local) - 2024-01-13 12:15:54 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/PLC_Bahia_R600_Ensamble_L3
+
+
+Cannon_C_Secuencia
+Operation:	Backup and Compare
+Status:		Compare - No Differences Found - Completed at 2024-01-13 06:10:15 (Local) - 2024-01-13 12:10:15 (UTC)
+Start:		2024-01-13 06:08:56 (Local) - 2024-01-13 12:08:56 (UTC)
+Finish:		2024-01-13 06:10:17 (Local) - 2024-01-13 12:10:17 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/Cannon_C_Secuencia
+
+
+Cannon_D_Secuencia
+Operation:	Backup and Compare
+Status:		Compare - No Differences Found - Completed at 2024-01-13 06:20:10 (Local) - 2024-01-13 12:20:10 (UTC)
+Start:		2024-01-13 06:18:44 (Local) - 2024-01-13 12:18:44 (UTC)
+Finish:		2024-01-13 06:20:11 (Local) - 2024-01-13 12:20:11 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/Cannon_D_Secuencia
+
+
+Prensa_Sutherland_L3
+Operation:	Backup and Compare
+Status:		Compare - No Differences Found - Completed at 2024-01-13 06:03:30 (Local) - 2024-01-13 12:03:30 (UTC)
+Start:		2024-01-13 06:00:17 (Local) - 2024-01-13 12:00:17 (UTC)
+Finish:		2024-01-13 06:03:32 (Local) - 2024-01-13 12:03:32 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/Prensa_Sutherland_L3
+
+
+Cannon_A_Secuencia
+Operation:	Backup and Compare
+Status:		Device not found
+Start:		2024-01-13 06:18:23 (Local) - 2024-01-13 12:18:23 (UTC)
+Finish:		2024-01-13 06:18:30 (Local) - 2024-01-13 12:18:30 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/Cannon_A_Secuencia
+
+
+Cannon_B_Secuencia
+Operation:	Backup and Compare
+Status:		Device not found
+Start:		2024-01-13 06:16:25 (Local) - 2024-01-13 12:16:25 (UTC)
+Finish:		2024-01-13 06:18:12 (Local) - 2024-01-13 12:18:12 (UTC)
+Assigned to Agent Group:           System Default
+Agent Group Property set at asset: AssetCentre/SUPSA/Data Concentrator 5/Cannon_B_Secuencia
+
+

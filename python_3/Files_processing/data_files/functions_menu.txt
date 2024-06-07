@@ -1,0 +1,4 @@
+Ejemplo de flush
+Imprimir nombre de usuario
+por definir
+exit

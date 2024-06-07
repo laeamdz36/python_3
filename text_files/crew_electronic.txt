@@ -1,0 +1,13 @@
+Name	PLC	Troubleshooting	Leadership	Acomplishment	Maint Skill
+Mauro Esparza	5	8	9	9	10
+Jose Perez	8	6	3	5	6
+Diego Cortes	4	5	3	7	4
+Rubern Perez	6	7	7	8	8
+Israel Gonzalez	7	8	4	7	8
+Adan Mata	2	1	1	5	2
+Jorge Flores	7	6	5	7	7
+Ivan Fernandez	8	9	8	8	8
+Carlos Serna	8	8	7	8	8
+Jose Puebla	9	9	5	9	8
+Juan Peña	2	5	6	9	5
+Raul Espinosa	7	7	5	7	7

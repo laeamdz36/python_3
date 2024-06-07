@@ -1,0 +1,38 @@
+Jose - 20240120__010318879
+Hola Mundo 2024-01-20 01:03:23.062322
+C:\Users\Automation\Documents\python_2\files_pract.py0 -> array_pract.ipynb
+1 -> Check 20240120__010318879.txt
+2 -> check20240120__010238647.txt
+3 -> csv_files_2
+4 -> Data concentrator 5.txt
+5 -> Data concentrators.txt
+6 -> datasets_ignition.ipynb
+7 -> decorator.ipynb
+8 -> dictionary_build.ipynb
+9 -> files_pract.py
+10 -> files_pract_1.ipynb
+11 -> hi20240120__005707583.txt
+12 -> hi20240120__005846767.txt
+13 -> listing_1.ipynb
+14 -> logger.py
+15 -> logs.txt
+16 -> my_file20240120__004642.txt
+17 -> my_file_master20240120__005534608.txt
+18 -> New dir
+19 -> numpy_bool.ipynb
+20 -> numpy_join.ipynb
+21 -> numpy_pract3.ipynb
+22 -> op_arit_munpy.ipynb
+23 -> pandas_pract1.ipynb
+24 -> performance_cadillac.ipynb
+25 -> pract_dataframe.ipynb
+26 -> proto_increment.py
+27 -> read_files.ipynb
+28 -> renamed.txt
+29 -> re_pract1.ipynb
+30 -> temperature_check.ipynb
+31 -> temp_script.py
+32 -> time_pract.ipynb
+33 -> time_series_pract.ipynb
+34 -> tkinter
+35 -> util.ipynb

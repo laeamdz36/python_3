@@ -1,0 +1,39 @@
+2023-12-27 20:32:38,760 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:32:38,760 INFO     [logger.py:9] Info only
+2023-12-27 20:32:38,760 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:09,744 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:09,744 INFO     [logger.py:9] Info only
+2023-12-27 20:33:09,744 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:11,504 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:11,504 INFO     [logger.py:9] Info only
+2023-12-27 20:33:11,504 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:12,091 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:12,091 INFO     [logger.py:9] Info only
+2023-12-27 20:33:12,092 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:12,558 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:12,558 INFO     [logger.py:9] Info only
+2023-12-27 20:33:12,558 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:13,007 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:13,007 INFO     [logger.py:9] Info only
+2023-12-27 20:33:13,007 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:13,453 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:13,453 INFO     [logger.py:9] Info only
+2023-12-27 20:33:13,453 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:13,871 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:13,871 INFO     [logger.py:9] Info only
+2023-12-27 20:33:13,871 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:33:15,484 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:33:15,485 INFO     [logger.py:9] Info only
+2023-12-27 20:33:15,485 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:53:29,771 DEBUG    [logger.py:8] Este es un mensaje para debug
+2023-12-27 20:53:29,772 INFO     [logger.py:9] Info only
+2023-12-27 20:53:29,772 WARNING  [logger.py:10] WARNING DUDE!
+2023-12-27 20:53:34,773 INFO     [logger.py:14] First message
+2023-12-27 20:53:35,773 INFO     [logger.py:16] Start of building list
+2023-12-27 20:53:35,773 INFO     [logger.py:19] List created
+2023-12-27 20:53:38,774 INFO     [logger.py:24] Printing numbers on list -> 1
+2023-12-27 20:53:38,774 INFO     [logger.py:24] Printing numbers on list -> 2
+2023-12-27 20:53:38,774 INFO     [logger.py:24] Printing numbers on list -> 3
+2023-12-27 20:53:38,774 INFO     [logger.py:24] Printing numbers on list -> 4
+2023-12-27 20:53:38,774 INFO     [logger.py:24] Printing numbers on list -> 5
+2023-12-27 20:53:41,775 INFO     [logger.py:27] Finishing program
